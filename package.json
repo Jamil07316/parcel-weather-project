@@ -1,0 +1,15 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "Building with parcel",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.htm",
+    "build": "parcel build"
+  },
+  "author": "jamil",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
